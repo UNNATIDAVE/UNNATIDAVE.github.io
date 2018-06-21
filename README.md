@@ -8,4 +8,5 @@
          repository and then make your portfolio live on github pages.
          You can learn about github pages from this link.
 
-# Technologies to be used - HTML5, CSS , Javascript, Bootstrap
+## Technologies to be used -
+      HTML5, CSS , Javascript, Bootstrap
